@@ -1,4 +1,4 @@
-# 🚢 Ferry Crossing Simulation (Multi-threaded)
+#  Ferry Crossing Simulation (Multi-threaded)
 
 This project implements a solution to the **Ferry Crossing Problem** using **C** and **POSIX Threads (pthreads)**. It simulates the synchronization between a ferry and cars using semaphores and mutexes, ensuring safe concurrent access to shared resources.
 
